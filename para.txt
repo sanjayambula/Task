@@ -1,0 +1,6 @@
+Skildex is a campus-based skill exchange platform designed to help students connect, learn, and share knowledge with one another. 
+The project currently includes a homepage introducing the platform, a login page for returning users, a registration page for new users,
+and a dashboard where members can access their learning and teaching activities. 
+The system is being developed step by step with a focus on clean design, easy navigation, and smooth user flow. At this stage, 
+features like automatic redirection after registration, simulated authentication, and preparation for more advanced components such as skill listings, user profiles, and scheduling are being integrated.
+The goal of Skildex is to create a professional, user-friendly platform that makes skill sharing within a campus both simple and impactful
